@@ -1,0 +1,121 @@
+.cartCard{
+    display: grid;
+    grid-template-columns: 7fr 5fr;
+    margin-left: 130px;
+    margin-right: 130px;
+    
+}
+.cardCat-a{
+    width: 570px;
+    height: 160px;
+    border: 1px solid rgb(238, 238, 234);
+    margin: 9px;
+    display: flex;
+    padding: 6px;
+    margin-right: 16px;
+    flex: 1;
+}
+.detilsImage{
+    height: 170px;
+}
+.img-cat{
+
+    width: 130px;
+    height: 100%;
+    margin-right: 10px;
+}
+.t1{
+     display: flex;
+
+    width: 100%;
+    font-weight: 700;
+    margin-bottom: 9px;
+    align-items: center;
+    position: relative;
+    
+}
+
+.eoo{
+    margin-bottom: 10px;
+    display: block;
+    
+}
+.title{
+    display: block;
+    margin-bottom: 10px;
+}
+.cat-b{
+    text-decoration: line-through;
+    color: gray;
+}
+.cat-c{
+    color: red;
+}
+.mr-row{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+
+    margin-bottom: 5px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.amount2{
+    color: rgb(110, 217, 110);
+}
+.liner{
+    margin-top: 5px;
+    border-bottom: 1px solid #e4e0e0;
+    margin: 10px 20px;
+}
+.icon-btn{
+    background: transparent;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  font-size: 20px;
+  align-items: center;
+}
+.qtynum{
+    font-size: 20px;
+    margin-bottom: 4px;
+}
+.qty-btn{
+    display: flex;
+    align-items: center;
+    gap :10px
+}
+.remtext{
+    margin-left: 0;
+  background: transparent;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  font-size: 20px;
+  
+  margin-left: auto;
+  margin-right: 5px;
+}
+.cardContent{
+      display: flex;
+  flex-direction: column;
+  flex: 1;   /* 🔥 important */
+}
+.btnplaceorder{
+    align-items: center;
+    margin-left: 44px;
+    margin-top: 20px;
+}
+.btnplace{
+    background-color: rgb(255, 132, 0);
+    color: white;
+    border: none;
+    width: 300px;
+    height: 40px;
+    font-size: larger;
+
+}
+
+                            
+
+

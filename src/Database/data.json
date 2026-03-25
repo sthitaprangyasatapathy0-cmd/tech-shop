@@ -1,0 +1,1193 @@
+  [
+  
+    {
+      "id": 1001,
+      "title": "FeatherSeat Mesh Ergonomic Office Chair",
+      "description": "Premium ergonomic office chair with breathable mesh back and seat. Adjustable lumbar support, headrest, and 360° swivel for comfortable long coding sessions.",
+      "price": 7499,
+      "originalPrice": 9999,
+      "discountPercent": 25,
+      "category": "Coding Desk Setup",
+      "subCategory": "Office Chair",
+      "image": "https://images.unsplash.com/photo-1688578735352-9a6f2ac3b70a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+      "images": [
+        "https://images.unsplash.com/photo-1688578735352-9a6f2ac3b70a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+        "https://images.pexels.com/photos/1957478/pexels-photo-1957478.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/159839/pexels-photo-159839.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/4930018/pexels-photo-4930018.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "rating": 4.6,
+      "reviewsCount": 154,
+      "inStock": true,
+      "brand": "FeatherSeat",
+      "tags": ["ergonomic", "mesh", "adjustable", "office", "lumbar"],
+      "qty": 1
+    },
+    {
+      "id": 1002,
+      "title": "Boltora L-Shaped Wooden Computer Desk",
+      "description": "Spacious L-shaped computer desk with sturdy steel frame and faux wood top. Provides ample workspace for dual monitors and accessories. Easy to assemble.",
+      "price": 12999,
+      "originalPrice": 15999,
+      "discountPercent": 19,
+      "category": "Coding Desk Setup",
+      "subCategory": "Desk",
+      "image": "https://images.pexels.com/photos/1957478/pexels-photo-1957478.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "images": [
+        "https://images.pexels.com/photos/1957478/pexels-photo-1957478.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/4930018/pexels-photo-4930018.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.unsplash.com/photo-1560448204-9c7c05e6c8c9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+      ],
+      "rating": 4.5,
+      "reviewsCount": 87,
+      "inStock": true,
+      "brand": "Boltora",
+      "tags": ["desk", "L-shaped", "wooden", "steel-frame", "home-office"],
+      "qty": 1
+    },
+    {
+      "id": 1003,
+      "title": "ViscoTech Dual Monitor Arm Stand",
+      "description": "Heavy-duty adjustable dual monitor arm stand for two 27-inch monitors. Features clamp or grommet mounting, full motion tilt, and cable management clips.",
+      "price": 2499,
+      "originalPrice": 3999,
+      "discountPercent": 37,
+      "category": "Coding Desk Setup",
+      "subCategory": "Monitor Arm",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71R0JePp-lL.jpg",
+
+      "images": [
+        "https://images.pexels.com/photos/2330798/pexels-photo-2330798.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/159839/pexels-photo-159839.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/4930018/pexels-photo-4930018.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "rating": 4.3,
+      "reviewsCount": 64,
+      "inStock": true,
+      "brand": "ViscoTech",
+      "tags": ["dual-monitor", "stand", "ergonomic", "adjustable", "steel"],
+      "qty": 1
+    },
+    {
+      "id": 1004,
+      "title": "TechType RGB Mechanical Keyboard",
+      "description": "RGB backlit mechanical gaming keyboard with tactile switches and ergonomic keycaps. Features anti-ghosting, N-key rollover, and a detachable palm rest for comfort.",
+      "price": 2599,
+      "originalPrice": 3499,
+      "discountPercent": 26,
+      "category": "Coding Desk Setup",
+      "subCategory": "Mouse&Keyboard",
+      "image": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1601582261838-29cfdbe79117?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+        "https://images.unsplash.com/photo-1601039747315-bce4a39068e9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+        "https://images.pexels.com/photos/3575603/pexels-photo-3575603.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "rating": 2.4,
+      "reviewsCount": 320,
+      "inStock": true,
+      "brand": "TechType",
+      "tags": ["mechanical", "RGB", "gaming", "keyboard", "tactile"],
+      "qty": 1
+    },
+    {
+      "id": 1005,
+      "title": "GripMax Wireless Gaming Mouse",
+      "description": "Ergonomic wireless gaming mouse with adjustable DPI up to 16000. Features RGB lighting, silent click switches, and a lightweight design for smooth glide.",
+      "price": 1999,
+      "originalPrice": 2999,
+      "discountPercent": 33,
+      "category": "Coding Desk Setup",
+      "subCategory": "Mouse&Keyboard",
+      "image": "https://i5.walmartimages.com/asr/72306ace-7bac-4390-84d6-f0bfe95badcf.95707feb37d2f101b4925eded6206827.jpeg",
+      "images": [
+        "https://images.unsplash.com/photo-1589407671099-5b8de0fb6e96?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+        "https://images.unsplash.com/photo-1584002240897-e0e281d30726?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+        "https://images.pexels.com/photos/211521/pexels-photo-211521.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "rating": 2.5,
+      "reviewsCount": 215,
+      "inStock": true,
+      "brand": "GripMax",
+      "tags": ["wireless", "gaming", "ergonomic", "optical", "USB"],
+      "qty": 1
+    },
+    {
+      "id": 1006,
+      "title": "Silencia Wireless Noise-Cancelling Headphones",
+      "description": "Over-ear Bluetooth headphones with active noise cancellation. Up to 40-hour battery life, comfortable protein-leather earcups, and built-in mic for calls.",
+      "price": 8999,
+      "originalPrice": 12999,
+      "discountPercent": 31,
+      "category": "Coding Desk Setup",
+      "subCategory": "Headphones",
+      "image": "https://www.bhphotovideo.com/images/fb/sony_wh1000xm6_b_wh_1000xm6_noise_canceling_wireless_over_ear_1894980.jpg",
+      "images": [
+        "https://images.unsplash.com/photo-1588447152430-570d2a4bb8a9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+        "https://images.unsplash.com/photo-1579547326173-c9c418b10b53?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+        "https://images.pexels.com/photos/374870/pexels-photo-374870.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "rating": 3.5,
+      "reviewsCount": 210,
+      "inStock": true,
+      "brand": "Silencia",
+      "tags": ["wireless", "noise-cancelling", "over-ear", "Bluetooth", "audio"],
+      "qty": 1
+    },
+    {
+      "id": 1007,
+      "title": "Luminio LED Desk Lamp with USB",
+      "description": "Adjustable LED desk lamp with touch control and built-in USB charging port. Three color modes and five brightness levels. Energy-efficient and sleek design.",
+      "price": 1799,
+      "originalPrice": 2499,
+      "discountPercent": 28,
+      "category": "Coding Desk Setup",
+      "subCategory": "Lamp",
+      "image": "https://m.media-amazon.com/images/I/61s7RGRwSoL._AC_SL1500_.jpg",
+      "images": [
+        "https://images.pexels.com/photos/587429/pexels-photo-587429.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.unsplash.com/photo-1586374744251-5f98c7ac8fd4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+      ],
+      "rating": 4.2,
+      "reviewsCount": 134,
+      "inStock": true,
+      "brand": "Luminio",
+      "tags": ["LED", "desk lamp", "touch-control", "usb", "adjustable"],
+      "qty": 1
+    },
+    {
+      "id": 1008,
+      "title": "TidyDesk Cable Organizer Kit",
+      "description": "Complete cable management kit including clips, sleeves, and ties. Organize and hide cables under your desk for a neat workspace. Includes adhesive mounts and straps.",
+      "price": 499,
+      "originalPrice": 799,
+      "discountPercent": 37,
+      "category": "Coding Desk Setup",
+      "subCategory": "Cable Organizer",
+      "image": "https://i.pinimg.com/736x/5d/ef/4d/5def4d39e4691054d40f38a102a380b7.jpg",
+      "images": [
+        "https://images.unsplash.com/photo-1561953882-8bae6e2ef585?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+        "https://images.unsplash.com/photo-1558898479-f59bb5d65347?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+      ],
+      "rating": 3.3,
+      "reviewsCount": 90,
+      "inStock": true,
+      "brand": "TidyDesk",
+      "tags": ["cable-management", "organizer", "under-desk", "clips", "tidy"],
+      "qty": 1
+    },
+    {
+      "id": 1009,
+      "title": "Frosti USB Laptop Cooling Pad",
+      "description": "USB-powered laptop cooling pad with dual fans and adjustable height. Slim aluminum design compatible with 15-17 inch laptops. Helps prevent overheating under load.",
+      "price": 999,
+      "originalPrice": 1499,
+      "discountPercent": 33,
+      "category": "Coding Desk Setup",
+      "subCategory": "LaptopStand",
+      "image": "https://m.media-amazon.com/images/I/81pQi2N6-XL._AC_.jpg",
+      "images": [
+        "https://images.unsplash.com/photo-1589461180259-531bed02134b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+        "https://images.unsplash.com/photo-1502875497462-2af20120bc8a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+      ],
+      "rating": 4.3,
+      "reviewsCount": 87,
+      "inStock": true,
+      "brand": "Frosti",
+      "tags": ["cooling-pad", "laptop", "USB", "ergonomic", "fans"],
+      "qty": 1
+    },
+    {
+      "id": 1010,
+      "title": "FlexiFold Adjustable Laptop Stand",
+      "description": "Portable foldable laptop stand with adjustable height and angle. Aluminum alloy construction with rubber feet for stability. Improves laptop ventilation and ergonomics.",
+      "price": 1199,
+      "originalPrice": 1599,
+      "discountPercent": 25,
+      "category": "Coding Desk Setup",
+      "subCategory": "LaptopStand",
+      "image": "https://images-cdn.ubuy.co.in/63fb0ed1393d037468175b99-boyata-laptop-stand-for-desk-adjustable.jpg",
+      "images": [
+        "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+        "https://images.unsplash.com/photo-1527434004908-8ff9254b1b8d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+      ],
+      "rating": 3.4,
+      "reviewsCount": 230,
+      "inStock": true,
+      "brand": "FlexiFold",
+      "tags": ["adjustable", "portable", "foldable", "aluminum", "ergonomic"],
+      "qty": 1
+    },
+    {
+  "id": 1011,
+  "title": "Auralux Pro ANC Wireless Headphones",
+  "description": "Premium over-ear headphones with hybrid active noise cancellation, deep bass drivers, and 35-hour battery backup. Soft memory-foam cushions for long coding sessions.",
+  "price": 7499,
+  "originalPrice": 10999,
+  "discountPercent": 32,
+  "category": "Coding Desk Setup",
+  "subCategory": "Headphones",
+  "image": "https://images.pexels.com/photos/577769/pexels-photo-577769.jpeg?auto=compress&cs=tinysrgb&w=800"
+
+,
+  "images": [
+    "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=800",
+    "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=800",
+    "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=800"
+  ],
+  "rating": 4.3,
+  "reviewsCount": 540,
+  "inStock": true,
+  "brand": "Auralux",
+  "tags": ["wireless", "ANC", "over-ear", "Bluetooth", "music"],
+  "qty": 1
+},
+{
+  "id": 1012,
+  "title": "NovaBeat Studio Wireless Headphones",
+  "description": "Lightweight studio-style Bluetooth headphones with immersive surround sound, fast USB-C charging, and foldable design for travel and work setups.",
+  "price": 6599,
+  "originalPrice": 9999,
+  "discountPercent": 34,
+  "category": "Coding Desk Setup",
+  "subCategory": "Headphones",
+  "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800",
+  "images": [
+    "https://images.unsplash.com/photo-1524678714210-9917a6c619c2?auto=format&fit=crop&w=800",
+    "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?auto=format&fit=crop&w=800",
+    "https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg?auto=compress&cs=tinysrgb&w=800"
+  ],
+  "rating": 4.0,
+  "reviewsCount": 318,
+  "inStock": true,
+  "brand": "NovaBeat",
+  "tags": ["studio", "wireless", "over-ear", "audio", "tech"],
+  "qty": 1
+},
+{
+  "id": 1013,
+  "title": "HyperGlide Pro Wireless Gaming Mouse",
+  "description": "Ultra-lightweight wireless gaming mouse with adjustable DPI up to 16000, RGB side lighting, and ergonomic grip for long coding or gaming sessions.",
+  "price": 1899,
+  "originalPrice": 2499,
+  "discountPercent": 24,
+  "category": "Coding Desk Setup",
+  "subCategory": "Mouse&Keyboard",
+  "image": "https://images.pexels.com/photos/2115256/pexels-photo-2115256.jpeg?auto=compress&cs=tinysrgb&w=800",
+  "images": [
+    "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=800",
+    "https://images.pexels.com/photos/5082579/pexels-photo-5082579.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800"
+  ],
+  "rating": 4.2,
+  "reviewsCount": 210,
+  "inStock": true,
+  "brand": "HyperGlide",
+  "tags": ["mouse", "wireless", "RGB", "gaming", "DPI"],
+  "qty": 1
+},
+{
+  "id": 1014,
+  "title": "ElevateX Ergo Aluminum Laptop Stand",
+  "description": "Premium adjustable aluminum laptop stand with anti-slip silicone pads and open design for better airflow. Ideal for coding desks and long work sessions.",
+  "price": 1399,
+  "originalPrice": 1899,
+  "discountPercent": 26,
+  "category": "Coding Desk Setup",
+  "subCategory": "LaptopStand",
+  "image": "https://i5.walmartimages.com/seo/Aluminum-Alloy-Laptop-Stand-Rotating-Notebook-Bracket-Elevated-Cooling-Vent-Adjustable-Height-Office-Home-Use-Desk-Mount-Space-Saving-Modern-Aestheti_df81f8be-a9b6-4906-946c-6bd95afd0768.c2d7b45bb603097ab514e135aa0402fd.jpeg"
+,
+
+  "images": [
+    "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?auto=format&fit=crop&w=800",
+    "https://images.pexels.com/photos/4050315/pexels-photo-4050315.jpeg?auto=compress&cs=tinysrgb&w=800"
+  ],
+  "rating": 4.1,
+  "reviewsCount": 310,
+  "inStock": true,
+  "brand": "ElevateX",
+  "tags": ["ergonomic", "aluminum", "adjustable", "desk-setup", "portable"],
+  "qty": 1
+},
+
+
+  
+    {
+      "id": 2001,
+      "title": "BrightPages A5 Hardcover Notebook",
+      "description": "Premium A5-size hardcover notebook with high-quality lined pages. Features a built-in bookmark ribbon and elastic closure. Ideal for notes, journal, or bullet journaling.",
+      "price": 299,
+      "originalPrice": 399,
+      "discountPercent": 25,
+      "category": "Study Essentials",
+      "subCategory": "Notebooks",
+      "image": "https://images.pexels.com/photos/1352272/pexels-photo-1352272.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "images": [
+        "https://images.pexels.com/photos/1352272/pexels-photo-1352272.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.unsplash.com/photo-1586281380399-0849178e438f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+        "https://images.unsplash.com/photo-1614989612686-8282576ffd12?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+      ],
+      "rating": 4.7,
+      "reviewsCount": 152,
+      "inStock": true,
+      "brand": "BrightPages",
+      "tags": ["notebook", "journal", "hardcover", "writing", "A5"],
+      "qty": 1
+    },
+    {
+      "id": 2002,
+      "title": "WriteMate Complete Stationery Set",
+      "description": "12-piece study stationery kit including ballpoint pens, mechanical pencils, erasers, sharpener, ruler, and a zipper case. Colorful and durable supplies for students.",
+      "price": 499,
+      "originalPrice": 699,
+      "discountPercent": 29,
+      "category": "Study Essentials",
+      "subCategory": "Stationery",
+      "image": "https://i5.walmartimages.com/seo/XYAIYT-Complete-Stationery-Set-Highlighters-Drawing-Pens-Spacious-Pencil-Case-Students-Professionals-Writing-Art-Includes-1-0-fl-oz-Fluorescent-Pens_e304f85c-3056-44bf-b21a-4dd320362874.3fe30450dade1c932260fe97c6c35bf2.jpeg",
+      "images": [
+        "https://images.pexels.com/photos/28970/pexels-photo-28970.jpg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/212949/pexels-photo-212949.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "rating": 4.5,
+      "reviewsCount": 210,
+      "inStock": true,
+      "brand": "WriteMate",
+      "tags": ["stationery", "pens", "pencils", "erasers", "school"],
+      "qty": 1
+    },
+    {
+      "id": 2003,
+      "title": "GlowMark Fluorescent Highlighter Set",
+      "description": "Set of 6 fluorescent highlighters in assorted colors. Water-based ink that doesn’t bleed through pages. Ergonomic triangular barrel for comfortable grip during note-taking.",
+      "price": 299,
+      "originalPrice": 449,
+      "discountPercent": 33,
+      "category": "Study Essentials",
+      "subCategory": "Stationery",
+      "image": "https://m.media-amazon.com/images/I/61Fizeu5C4L._AC_SL1500_.jpg",
+      "images": [
+        "https://images.pexels.com/photos/167489/pexels-photo-167489.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/241523/pexels-photo-241523.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "rating": 4.6,
+      "reviewsCount": 130,
+      "inStock": true,
+      "brand": "GlowMark",
+      "tags": ["highlighters", "fluorescent", "study", "colorful", "set"],
+      "qty": 1
+    },
+    {
+      "id": 2004,
+      "title": "DeskBuddy Pen Holder & Organizer",
+      "description": "Multi-compartment desk organizer made of wood. Stores pens, markers, and office supplies. Sleek design with a slot for phone or notes. Keeps your study desk tidy.",
+      "price": 599,
+      "originalPrice": 799,
+      "discountPercent": 25,
+      "category": "Study Essentials",
+      "subCategory": "Desk Organizer",
+      "image": "https://m.media-amazon.com/images/I/61JeFNbBkiL.jpg",
+      "images": [
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+        "https://images.unsplash.com/photo-1564866834813-50fbed0f8e6f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+      ],
+      "rating": 3.4,
+      "reviewsCount": 98,
+      "inStock": true,
+      "brand": "DeskBuddy",
+      "tags": ["pen-holder", "organizer", "wooden", "desk", "storage"],
+      "qty": 1
+    },
+    {
+      "id": 2005,
+      "title": "StudyBright LED Desk Lamp",
+      "description": "Flexible LED study lamp with adjustable arm and touch-sensitive brightness control. Five lighting modes (warm to cool) and USB charging port. Energy-efficient and eye-friendly.",
+      "price": 1499,
+      "originalPrice": 1999,
+      "discountPercent": 25,
+      "category": "Study Essentials",
+      "subCategory": "Desk Lamp",
+      "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d5ad7863-3037-4569-92a9-d30566730091.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "images": [
+        "https://images.pexels.com/photos/109478/pexels-photo-109478.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.unsplash.com/photo-1586953208448-841d8bf15fbd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+      ],
+      "rating": 2.5,
+      "reviewsCount": 176,
+      "inStock": true,
+      "brand": "StudyBright",
+      "tags": ["LED", "desk lamp", "study lamp", "touch", "adjustable"],
+      "qty": 1
+    },
+    {
+      "id": 2006,
+      "title": "CalcPro Scientific Calculator",
+      "description": "Scientific calculator with dual-line display, 240 functions including trig, log, and statistical calculations. Ideal for math and science students. Solar + battery powered.",
+      "price": 899,
+      "originalPrice": 1299,
+      "discountPercent": 31,
+      "category": "Study Essentials",
+      "subCategory": "Calculator",
+      "image": "https://images.thdstatic.com/productImages/35599367-7f99-4852-80f1-a7cc86363532/svn/calculated-industries-construction-calculators-4090-64_600.jpg",
+      "images": [
+        "https://images.unsplash.com/photo-1596343661260-ea780f9085ed?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+        "https://images.unsplash.com/photo-1587614382346-aade7bfd0a0f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+      ],
+      "rating": 4.2,
+      "reviewsCount": 143,
+      "inStock": true,
+      "brand": "CalcPro",
+      "tags": ["calculator", "scientific", "student", "solar-powered", "functions"],
+      "qty": 1
+    },
+    {
+      "id": 2007,
+      "title": "EduGear Student Backpack",
+      "description": "Durable 20L student backpack with padded laptop compartment (fits 15.6\"), multiple pockets, and ergonomic shoulder straps. Water-resistant fabric and reinforced stitching.",
+      "price": 2299,
+      "originalPrice": 2999,
+      "discountPercent": 23,
+      "category": "Study Essentials",
+      "subCategory": "Backpack",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ovQTveh7L.jpg",
+      "images": [
+        "https://images.unsplash.com/photo-1593032469231-234af8e69f80?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+        "https://images.unsplash.com/photo-1580707562318-5ff492c24157?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+      ],
+      "rating": 4.5,
+      "reviewsCount": 210,
+      "inStock": true,
+      "brand": "EduGear",
+      "tags": ["backpack", "student", "laptop", "water-resistant", "24L"],
+      "qty": 1
+    },
+    {
+      "id": 2008,
+      "title": "TickTock Digital Alarm Clock",
+      "description": "Digital alarm clock with LED display and dual alarm function. USB charging port and easy-snooze feature. Compact design and bright, adjustable time display.",
+      "price": 999,
+      "originalPrice": 1499,
+      "discountPercent": 33,
+      "category": "Study Essentials",
+      "subCategory": "AlarmClock",
+      "image": "https://i5.walmartimages.com/asr/0000efbe-5f07-4337-9804-1c64954e4fdb.d64b97600944be195787959ddef6f892.jpeg",
+      "images": [
+        "https://images.unsplash.com/photo-1579124424345-9ad2cb39177e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+        "https://images.unsplash.com/photo-1579124424349-9da0e0e5df4c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+      ],
+      "rating": 2.4,
+      "reviewsCount": 156,
+      "inStock": true,
+      "brand": "TickTock",
+      "tags": ["alarm clock", "digital", "LED", "dual-alarm", "USB"],
+      "qty": 1
+    },
+    {
+      "id": 2009,
+      "title": "HydroMate Stainless Steel Water Bottle",
+      "description": "24oz reusable stainless steel water bottle with double-wall vacuum insulation. Keeps drinks cold for 24 hours or hot for 12 hours. Leak-proof lid and sweat-free exterior.",
+      "price": 499,
+      "originalPrice": 799,
+      "discountPercent": 37,
+      "category": "Study Essentials",
+      "subCategory": "Accessories",
+      "image": "https://stonesmentor.com/wp-content/uploads/2024/06/Stainless-Steel-Water-Bottle.jpg",
+      "images": [
+        "https://images.unsplash.com/photo-1536305030462-b2cfb3d41c25?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+        "https://images.unsplash.com/photo-1576689485007-9d7b16208f52?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+      ],
+      "rating": 4.5,
+      "reviewsCount": 134,
+      "inStock": true,
+      "brand": "HydroMate",
+      "tags": ["water bottle", "insulated", "stainless-steel", "bottle", "leakproof"],
+      "qty": 1
+    },
+    {
+  "id": 2010,
+  "title": "SmartRise Bluetooth Alarm Clock",
+  "description": "Modern smart alarm clock with Bluetooth speaker, LED display, and customizable alarms. Includes night light and phone charging support.",
+  "price": 1299,
+  "originalPrice": 1799,
+  "discountPercent": 28,
+  "category": "Study Essentials",
+  "subCategory": "AlarmClock",
+  "image": "https://m.media-amazon.com/images/I/81IQwMNRzFL._AC_SL1500_.jpg",
+  "images": [
+    "https://images.unsplash.com/photo-1514477917009-389c76a86b68?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+    "https://images.unsplash.com/photo-1558002038-1055907df827?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+  ],
+  "rating": 4.1,
+  "reviewsCount": 210,
+  "inStock": true,
+  "brand": "SmartRise",
+  "tags": ["alarm clock", "smart", "bluetooth", "LED", "speaker"],
+  "qty": 1
+},
+{
+  "id": 2011,
+  "title": "TravelMate Compact Alarm Clock",
+  "description": "Lightweight and portable travel alarm clock with foldable stand and clear LCD display. Ideal for travel, study desks, and bedside use.",
+  "price": 699,
+  "originalPrice": 999,
+  "discountPercent": 30,
+  "category": "Study Essentials",
+  "subCategory": "AlarmClock",
+  "image": "https://cdn2.thebridalbox.com/wp-content/uploads/2024/07/FAMICOZY-Compact-Digital-Travel-Alarm-Clock.jpg.webp",
+  "images": [
+    "https://images.unsplash.com/photo-1579124424345-9ad2cb39177e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+    "https://images.unsplash.com/photo-1579124424349-9da0e0e5df4c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+  ],
+  "rating": 3.9,
+  "reviewsCount": 98,
+  "inStock": true,
+  "brand": "TravelMate",
+  "tags": ["alarm clock", "travel", "portable", "LCD", "compact"],
+  "qty": 1
+},
+{
+  "id": 2012,
+  "title": "UrbanCarry Laptop Backpack",
+  "description": "Modern 25L laptop backpack with padded compartment for 15.6\" laptops, anti-theft pocket, USB charging port, and breathable back support. Ideal for college and daily travel.",
+  "price": 2499,
+  "originalPrice": 3299,
+  "discountPercent": 24,
+  "category": "Study Essentials",
+  "subCategory": "Backpack",
+  "image": "https://www.yankodesign.com/images/design_news/2023/09/microsofts-ai-powered-backpack-redefines-your-smart-companion-on-the-go/Microsoft_AI_backpack_01-hero.jpg",
+  "images": [
+    "https://images.unsplash.com/photo-1584917865442-de89df76afd3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+    "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+  ],
+  "rating": 4.6,
+  "reviewsCount": 275,
+  "inStock": true,
+  "brand": "UrbanCarry",
+  "tags": ["backpack", "laptop", "anti-theft", "student", "travel"],
+  "qty": 1
+},
+{
+  "id": 2013,
+  "title": "CampusPro Student Backpack",
+  "description": "Lightweight 23L student backpack with spacious compartments, padded shoulder straps, and water-resistant polyester fabric. Perfect for books, laptop, and daily essentials.",
+  "price": 1999,
+  "originalPrice": 2699,
+  "discountPercent": 26,
+  "category": "Study Essentials",
+  "subCategory": "Backpack",
+  "image": "https://m.media-amazon.com/images/I/61vEv3XKWZL._AC_SL1500_.jpg",
+  "images": [
+    "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+    "https://images.unsplash.com/photo-1602810316498-ab67cf68c8e1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+  ],
+  "rating": 4.3,
+  "reviewsCount": 162,
+  "inStock": true,
+  "brand": "CampusPro",
+  "tags": ["backpack", "student", "college", "water-resistant", "23L"],
+  "qty": 1
+},
+{
+  "id": 2014,
+  "title": "WritePro Smooth Ballpoint Pen Set",
+  "description": "Pack of 10 smooth-writing ballpoint pens with quick-dry ink. Comfortable rubber grip and consistent ink flow for everyday writing, note-taking, and exams.",
+  "price": 249,
+  "originalPrice": 399,
+  "discountPercent": 38,
+  "category": "Study Essentials",
+  "subCategory": "Stationery",
+  "image": "https://m.media-amazon.com/images/I/71PQ-gEY6dL._AC_.jpg",
+  "images": [
+    "https://images.pexels.com/photos/261763/pexels-photo-261763.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "https://images.pexels.com/photos/159775/library-la-trobe-study-students-159775.jpeg?auto=compress&cs=tinysrgb&w=800"
+  ],
+  "rating": 4.3,
+  "reviewsCount": 95,
+  "inStock": true,
+  "brand": "WritePro",
+  "tags": ["pen", "ballpoint", "writing", "study", "stationery"],
+  "qty": 1
+},
+  
+    {
+      "id": 3001,
+      "title": "Orico 6-in-1 USB-C Multiport Hub",
+      "description": "USB-C hub with 4K HDMI, 3 USB3.0 ports, SD/TF card slots, and Gigabit Ethernet. Plug-and-play design supports data transfer and 4K video output for laptops and phones.",
+      "price": 2699,
+      "originalPrice": 3499,
+      "discountPercent": 23,
+      "category": "Laptop & Mobile Accessories",
+      "subCategory": "USB Hub",
+      "image": "https://www.liveshopping-aktuell.de/wp-content/uploads/2023/04/amazon-orico-6-in-1-usb-3-0-hub-docking-station-mit.jpg",
+      "images": [
+        "https://images.pexels.com/photos/1420707/pexels-photo-1420707.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.unsplash.com/photo-1585386959984-a415522ba11f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+      ],
+      "rating": 3.6,
+      "reviewsCount": 190,
+      "inStock": true,
+      "brand": "Orico",
+      "tags": ["USB-C", "hub", "HDMI", "multifunction", "adapter"],
+      "qty": 1
+    },
+    {
+      "id": 3002,
+      "title": "VoltUp Qi Wireless Charger Pad",
+      "description": "15W Qi wireless charger pad compatible with iPhone and Android. Slim charging station with LED indicator and anti-slip design. Supports fast charging and case-friendly charging.",
+      "price": 1299,
+      "originalPrice": 1999,
+      "discountPercent": 35,
+      "category": "Laptop & Mobile Accessories",
+      "subCategory": "Wireless Charger",
+      "image": "https://www.akyga.com/product-big-image/AK-QI-01/AK-QI-01_01.jpg",
+      "images": [
+        "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+        "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+      ],
+      "rating": 2.2,
+      "reviewsCount": 144,
+      "inStock": true,
+      "brand": "VoltUp",
+      "tags": ["wireless-charging", "Qi", "fast-charge", "pad", "smartphone"],
+      "qty": 1
+    },
+    {
+      "id": 3003,
+      "title": "FlexiGuard Silicone Phone Case",
+      "description": "Durable silicone phone case with raised edges for screen and camera protection. Flexible and slim design fits latest iPhone and Android models. Provides a comfortable anti-slip grip.",
+      "price": 799,
+      "originalPrice": 1199,
+      "discountPercent": 33,
+      "category": "Laptop & Mobile Accessories",
+      "subCategory": "Phone Case",
+      "image": "https://www.casepro.com/cdn/shop/files/S16SC61-PK-AMAZON_1200x1200.jpg?v=1725886415",
+      "images": [
+        "https://images.unsplash.com/photo-1587825140708-5a074cc14896?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+        "https://images.pexels.com/photos/289783/pexels-photo-289783.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "rating": 4.4,
+      "reviewsCount": 165,
+      "inStock": true,
+      "brand": "FlexiGuard",
+      "tags": ["phone-case", "silicone", "protective", "slim", "cover"],
+      "qty": 1
+    },
+    {
+      "id": 3004,
+      "title": "PowerPack 10000mAh Portable Charger",
+      "description": "Compact 10000mAh power bank with dual USB outputs and fast charging support. Aluminum alloy body with built-in LED battery indicator. Charges smartphones and tablets on the go.",
+      "price": 1299,
+      "originalPrice": 1999,
+      "discountPercent": 35,
+      "category": "Laptop & Mobile Accessories",
+      "subCategory": "Power Bank",
+      "image": "https://m.media-amazon.com/images/I/71dInc2stUL._AC_.jpg",
+      "images": [
+        "https://images.unsplash.com/photo-1585386959984-a415522ba11f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+        "https://images.unsplash.com/photo-1582495325382-5c6d01185b3a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+      ],
+      "rating": 4.3,
+      "reviewsCount": 198,
+      "inStock": true,
+      "brand": "PowerPack",
+      "tags": ["power-bank", "portable", "10000mAh", "fast-charging", "usb"],
+      "qty": 1
+    },
+    {
+      "id": 3005,
+      "title": "NanoGrip Bluetooth Mouse",
+      "description": "Ergonomic Bluetooth mouse with adjustable DPI up to 2400. Silent click design and contoured body for comfortable use. Compatible with laptop, tablet, and PC without receiver.",
+      "price": 1499,
+      "originalPrice": 2199,
+      "discountPercent": 32,
+      "category": "Laptop & Mobile Accessories",
+      "subCategory": "Mouse",
+      "image": "https://i5.walmartimages.com/seo/2-4GHz-Wireless-Bluetooth-Mouse-Dual-Mode-Slim-Rechargeable-Silent-USB-Mouse_7c3519c9-af8b-4072-b38e-73dc7a917f49.ee9ce6dfdac0540188407140e23e298a.jpeg",
+      "images": [
+        "https://images.unsplash.com/photo-1541807084-5c52b6b30a3f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+        "https://images.unsplash.com/photo-1579529619218-cb299757b568?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+      ],
+      "rating": 2.4,
+      "reviewsCount": 178,
+      "inStock": true,
+      "brand": "NanoGrip",
+      "tags": ["bluetooth", "mouse", "wireless", "ergonomic", "compact"],
+      "qty": 1
+    },
+    {
+      "id": 3006,
+      "title": "ClearShield Tempered Glass Screen Protector (Pack of 2)",
+      "description": "Two tempered glass screen protectors with anti-scratch and anti-fingerprint coating. Ultra-thin (0.33mm), 9H hardness, and bubble-free installation for smartphones.",
+      "price": 399,
+      "originalPrice": 799,
+      "discountPercent": 50,
+      "category": "Laptop & Mobile Accessories",
+      "subCategory": "Screen Protector",
+      "image": "https://m.media-amazon.com/images/I/71r6W3AdTCL._AC_.jpg",
+      "images": [
+        "https://images.unsplash.com/photo-1585950826129-6c0d659dd14b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+        "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+      ],
+      "rating": 4.1,
+      "reviewsCount": 106,
+      "inStock": true,
+      "brand": "ClearShield",
+      "tags": ["screen-protector", "tempered-glass", "anti-scratch", "mobile", "glass"],
+      "qty": 1
+    },
+    {
+      "id": 3007,
+      "title": "SonicBass Bluetooth Earbuds",
+      "description": "In-ear Bluetooth 5.0 earbuds with charging case. Provides up to 24 hours total playtime and intelligent touch controls. Noise isolation and comfortable silicone tips included.",
+      "price": 1999,
+      "originalPrice": 2999,
+      "discountPercent": 33,
+      "category": "Laptop & Mobile Accessories",
+      "subCategory": "Earbuds",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,msid-109891407,width-1070/109891407.jpg",
+      "images": [
+        "https://images.unsplash.com/photo-1596397715059-7b03b3c493db?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+        "https://images.unsplash.com/photo-1593656602937-4e5c56da103d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+      ],
+      "rating": 4.3,
+      "reviewsCount": 148,
+      "inStock": true,
+      "brand": "SonicBass",
+      "tags": ["earbuds", "bluetooth", "wireless", "noise-isolation", "charging-case"],
+      "qty": 1
+    },
+    {
+      "id": 3008,
+      "title": "FlexiLink USB-C to USB-A Charging Cable (1m)",
+      "description": "High-quality braided 1m USB-C to USB-A cable for fast charging and data sync. Durable nylon braid with tangle-free design. Compatible with all USB-C smartphones and tablets.",
+      "price": 299,
+      "originalPrice": 599,
+      "discountPercent": 50,
+      "category": "Laptop & Mobile Accessories",
+      "subCategory": "USB Cable",
+      "image": "https://m.media-amazon.com/images/I/71rK+D+tQ8L._SL1500_.jpg",
+      "images": [
+        "https://images.unsplash.com/photo-1532635710-8ea2cdbcaef2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+        "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+      ],
+      "rating": 4.4,
+      "reviewsCount": 67,
+      "inStock": true,
+      "brand": "FlexiLink",
+      "tags": ["USB-C", "cable", "charging", "braided", "1m"],
+      "qty": 1
+    },
+    {
+      "id": 3009,
+      "title": "CushionGuard 15-inch Laptop Sleeve",
+      "description": "Padded laptop sleeve made of water-resistant neoprene. Fits 15-inch laptops snugly and protects from scratches and bumps. Slim form with smooth zipper closure.",
+      "price": 899,
+      "originalPrice": 1299,
+      "discountPercent": 30,
+      "category": "Laptop & Mobile Accessories",
+      "subCategory": "Laptop Sleeve",
+      "image": "https://m.media-amazon.com/images/I/810EM3ROLbL._AC_SL1500_.jpg",
+      "images": [
+        "https://images.unsplash.com/photo-1542293787938-c9e299b88035?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+        "https://images.unsplash.com/photo-1508726117038-3dc0c7f31b3b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+      ],
+      "rating": 4.5,
+      "reviewsCount": 132,
+      "inStock": true,
+      "brand": "CushionGuard",
+      "tags": ["laptop-sleeve", "padded", "15-inch", "water-resistant", "neoprene"],
+      "qty": 1
+    },
+    {
+  "id": 3010,
+  "title": "SwiftClick Wireless Mouse",
+  "description": "Compact wireless mouse with 1600 DPI precision sensor and silent click buttons. Lightweight design with USB nano receiver for smooth navigation on laptops and desktops.",
+  "price": 999,
+  "originalPrice": 1599,
+  "discountPercent": 37,
+  "category": "Laptop & Mobile Accessories",
+  "subCategory": "Mouse",
+  "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+  "images": [
+    "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+    "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+  ],
+  "rating": 3.2,
+  "reviewsCount": 142,
+  "inStock": true,
+  "brand": "SwiftClick",
+  "tags": ["mouse", "wireless", "USB", "silent", "compact"],
+  "qty": 1
+},
+{
+  "id": 3011,
+  "title": "ProTrack Ergonomic Mouse",
+  "description": "Ergonomic wireless mouse with adjustable DPI up to 3200 for smooth tracking. Designed with anti-slip grip and silent buttons, perfect for office and long working hours.",
+  "price": 1799,
+  "originalPrice": 2499,
+  "discountPercent": 28,
+  "category": "Laptop & Mobile Accessories",
+  "subCategory": "Mouse",
+  "image": "https://images.unsplash.com/photo-1563297007-0686b7003af7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+  "images": [
+    "https://images.unsplash.com/photo-1586349906319-48d2c2e9b6b7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+    "https://images.unsplash.com/photo-1605774337664-7a846e9cdf17?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+  ],
+  "rating": 2.4,
+  "reviewsCount": 215,
+  "inStock": true,
+  "brand": "ProTrack",
+  "tags": ["mouse", "wireless", "ergonomic", "DPI", "office"],
+  "qty": 1
+},
+{
+  "id": 3012,
+  "title": "ChargeWave Fast Wireless Pad",
+  "description": "10W fast wireless charging pad compatible with Qi-enabled smartphones. Ultra-slim design with LED charging indicator and anti-slip rubber base for stable charging.",
+  "price": 1199,
+  "originalPrice": 1799,
+  "discountPercent": 33,
+  "category": "Laptop & Mobile Accessories",
+  "subCategory": "Wireless Charger",
+  "image": "https://ueeshop.ly200-cdn.com/u_file/UPAR/UPAR579/2107/products/05/1306691074.jpg",
+  "images": [
+    "https://images.unsplash.com/photo-1580910051074-3eb694886505?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+    "https://images.unsplash.com/photo-1615525137689-198778541af4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+  ],
+  "rating": 4.1,
+  "reviewsCount": 167,
+  "inStock": true,
+  "brand": "ChargeWave",
+  "tags": ["wireless-charging", "Qi", "fast-charge", "pad", "smartphone"],
+  "qty": 1
+},
+{
+  "id": 3013,
+  "title": "PowerNest Wireless Charging Stand",
+  "description": "15W Qi wireless charging stand with vertical design for easy viewing while charging. Compatible with Android and iPhone devices, with overheat protection and LED indicator.",
+  "price": 1499,
+  "originalPrice": 2199,
+  "discountPercent": 32,
+  "category": "Laptop & Mobile Accessories",
+  "subCategory": "Wireless Charger",
+  "image": "https://i5.walmartimages.com/asr/eea8b746-c460-48a8-a7c4-9b24e2702f5a.b403ff7541e56d0a5e6c1a963a6d864f.jpeg",
+  "images": [
+    "https://images.unsplash.com/photo-1586953208448-b95a79798f07?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+    "https://images.unsplash.com/photo-1609250291992-3e3e0d7dbf2f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+  ],
+  "rating": 4.3,
+  "reviewsCount": 201,
+  "inStock": true,
+  "brand": "PowerNest",
+  "tags": ["wireless-charging", "Qi", "fast-charge", "stand", "smartphone"],
+  "qty": 1
+},
+{
+  "id": 3014,
+  "title": "BeatFlow Wireless Earbuds",
+  "description": "True wireless Bluetooth earbuds with deep bass sound and fast pairing technology. Comes with compact charging case and touch control for music and calls.",
+  "price": 1799,
+  "originalPrice": 2599,
+  "discountPercent": 31,
+  "category": "Laptop & Mobile Accessories",
+  "subCategory": "Earbuds",
+  "image": "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+  "images": [
+    "https://images.unsplash.com/photo-1605464315542-bda3e2f4e605?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+    "https://images.unsplash.com/photo-1585386959984-a41552231658?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+  ],
+  "rating": 4.1,
+  "reviewsCount": 132,
+  "inStock": true,
+  "brand": "BeatFlow",
+  "tags": ["earbuds", "bluetooth", "wireless", "touch-control", "deep-bass"],
+  "qty": 1
+},
+{
+  "id": 3015,
+  "title": "ClearTune Noise Isolating Earbuds",
+  "description": "Lightweight wireless earbuds with noise isolation and HD stereo sound. Features quick charging case and ergonomic design for comfortable long listening sessions.",
+  "price": 2199,
+  "originalPrice": 3199,
+  "discountPercent": 31,
+  "category": "Laptop & Mobile Accessories",
+  "subCategory": "Earbuds",
+  "image": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+  "images": [
+    "https://images.unsplash.com/photo-1590658165737-15a047b2f8c1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+    "https://images.unsplash.com/photo-1608156639585-b3a032ef9689?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+  ],
+  "rating": 3.4,
+  "reviewsCount": 176,
+  "inStock": true,
+  "brand": "ClearTune",
+  "tags": ["earbuds", "bluetooth", "noise-isolation", "wireless", "HD-sound"],
+  "qty": 1
+},
+  
+    {
+      "id": 4001,
+      "title": "DecoVibe Inspirational Sticker Pack",
+      "description": "Set of 20 die-cut vinyl inspirational quote stickers. Waterproof and fade-resistant. Great for decorating laptops, notebooks, and study spaces with motivational messages.",
+      "price": 499,
+      "originalPrice": 699,
+      "discountPercent": 29,
+      "category": "Stickers & Posters",
+      "subCategory": "Sticker",
+      "image": "https://images.pexels.com/photos/1550336/pexels-photo-1550336.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "images": [
+        "https://images.pexels.com/photos/1550336/pexels-photo-1550336.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "rating": 4.4,
+      "reviewsCount": 89,
+      "inStock": true,
+      "brand": "DecoVibe",
+      "tags": ["stickers", "inspirational", "quotes", "vinyl", "motivation"],
+      "qty": 1
+    },
+    {
+      "id": 4002,
+      "title": "RetroGo Vintage Travel Poster Collection",
+      "description": "Pack of 5 high-quality retro travel posters featuring classic destinations. Printed on premium glossy paper. Perfect for wall decor in study or living room.",
+      "price": 899,
+      "originalPrice": 1299,
+      "discountPercent": 30,
+      "category": "Stickers & Posters",
+      "subCategory": "Posters",
+      "image": "https://www.thither.com/wp-content/uploads/2015/03/london-vintage-travel-poster.jpg",
+      "images": [
+        "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+        "https://images.unsplash.com/photo-1585386959984-a415522ba11f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+      ],
+      "rating": 4.5,
+      "reviewsCount": 142,
+      "inStock": true,
+      "brand": "RetroGo",
+      "tags": ["posters", "vintage", "travel", "wall-art", "decor"],
+      "qty": 1
+    },
+    {
+      "id": 4003,
+      "title": "Stay Hungry Stay Foolish posters",
+      
+      "description": "Minimalist motivational wall poster featuring bold typography. Printed on matte finish poster paper. Inspirational quote design to personalize your study or workspace wall.",
+      "price": 799,
+      "originalPrice": 999,
+      "discountPercent": 20,
+      "category": "Stickers & Posters",
+      "subCategory": "motivational",
+      "image": "https://i.pinimg.com/736x/98/2e/b5/982eb5cdd8114edb0b2135da6c412d0a.jpg",
+      "images": [
+        "https://images.unsplash.com/photo-1596397715059-7b03b3c493db?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+        "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+      ],
+      "rating": 4.3,
+      "reviewsCount": 121,
+      "inStock": true,
+      "brand": "MotivaArt",
+      "tags": ["poster", "motivation", "typography", "inspirational", "wall-art"],
+      "qty": 1
+    },
+    {
+      "id": 4004,
+      "title": "ZenGarden Floral Wall Decals",
+      "description": "Set of reusable floral wall decals. Easy peel-and-stick application, non-toxic vinyl. Adds a touch of nature and color to any wall or furniture surface.",
+      "price": 599,
+      "originalPrice": 799,
+      "discountPercent": 25,
+      "category": "Stickers & Posters",
+      "subCategory": "Wall Decal",
+      "image": "https://m.media-amazon.com/images/I/81MO+X1kAEL._AC_SL1500_.jpg",
+      "images": [
+        "https://images.unsplash.com/photo-1609949719573-1c0d05d8327b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+      ],
+      "rating": 4.4,
+      "reviewsCount": 98,
+      "inStock": true,
+      "brand": "ZenGarden",
+      "tags": ["wall-decal", "floral", "stickers", "decor", "nature"],
+      "qty": 1
+    },
+    {
+      "id": 4005,
+      "title": "CityBeat Street Art Sticker Pack",
+      "description": "Assorted pack of 30 graffiti and street art style vinyl stickers. Durable and weatherproof, perfect for laptops, skateboards, or urban decor.",
+      "price": 499,
+      "originalPrice": 699,
+      "discountPercent": 29,
+      "category": "Stickers & Posters",
+      "subCategory": "Stickers",
+      "image": "https://images.pexels.com/photos/3048535/pexels-photo-3048535.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "images": [
+        "https://images.pexels.com/photos/3048535/pexels-photo-3048535.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "rating": 4.2,
+      "reviewsCount": 73,
+      "inStock": true,
+      "brand": "CityBeat",
+      "tags": ["stickers", "street-art", "graffiti", "vinyl", "urban"],
+      "qty": 1
+    },
+    {
+      "id": 4006,
+      "title": "CodeCat Laptop Sticker Kit",
+      "description": "Set of 10 cat-themed tech stickers for laptops and tablets. Includes colorful vinyl decals of coding cats and gadgets. Sticker pack size fits notebooks and gadgets.",
+      "price": 349,
+      "originalPrice": 499,
+      "discountPercent": 30,
+      "category": "Stickers & Posters",
+      "subCategory": "Stickers",
+      "image": "https://i.pinimg.com/736x/be/4e/ab/be4eab08d202365b2249b0e68fdf390a.jpg",
+      "images": [
+        "https://images.unsplash.com/photo-1549923746-c502d488b3ea?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+      ],
+      "rating": 4.1,
+      "reviewsCount": 45,
+      "inStock": true,
+      "brand": "CodeCat",
+      "tags": ["stickers", "laptop", "cat", "vinyl", "cute"],
+      "qty": 1
+    },
+    {
+      "id": 4007,
+      "title": "GalleryWall Retro Street Poster Set",
+      "description": "Collection of 4 retro-styled street posters (16x24 inches) featuring city and travel motifs. Printed on thick matte paper with vintage color tones.",
+      "price": 1299,
+      "originalPrice": 1599,
+      "discountPercent": 19,
+      "category": "Stickers & Posters",
+      "subCategory": "Posters",
+      "image": "https://i.pinimg.com/236x/2a/47/4c/2a474c32baf05a05aaac01060d1af810.jpg",
+      "images": [
+        "https://images.unsplash.com/photo-1582944530774-72ff5293fe37?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+      ],
+      "rating": 4.5,
+      "reviewsCount": 88,
+      "inStock": true,
+      "brand": "GalleryWall",
+      "tags": ["posters", "retro", "street-art", "wall-art", "vintage"],
+      "qty": 1
+    },
+    {
+      "id": 4008,
+      "title": "PopCulture Comic Sticker Pack",
+      "description": "Pack of 20 pop-culture themed stickers (anime and comic style). Weatherproof vinyl stickers, ideal for personalizing gadgets or notebooks with cartoon art.",
+      "price": 449,
+      "originalPrice": 599,
+      "discountPercent": 25,
+      "category": "Stickers & Posters",
+      "subCategory": "Stickers",
+      "image": "https://i.etsystatic.com/14359457/r/il/010c31/3686296996/il_1080xN.3686296996_ncw1.jpg",
+      "images": [
+        "https://images.unsplash.com/photo-1546274415-4e77ca19fa77?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+      ],
+      "rating": 4.2,
+      "reviewsCount": 64,
+      "inStock": true,
+      "brand": "PopCulture",
+      "tags": ["stickers", "anime", "comic", "cartoon", "vinyl"],
+      "qty": 1
+    },
+    {
+  "id": 4009,
+  "title": "Dream Big Motivational Poster",
+  "description": "Inspirational wall poster with bold 'Dream Big Work Hard' typography. Printed on premium matte poster paper with vibrant colors, ideal for study rooms, offices, and workspaces.",
+  "price": 699,
+  "originalPrice": 999,
+  "discountPercent": 30,
+  "category": "Stickers & Posters",
+  "subCategory": "motivational",
+  "image": "https://images.playground.com/890f5951-5408-4b4a-be8d-055d2cff4027.jpeg",
+  "images": [
+    "https://images.unsplash.com/photo-1506784365847-bbad939e9335?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+    "https://images.unsplash.com/photo-1492724441997-5dc865305da7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+  ],
+  "rating": 3.5,
+  "reviewsCount": 154,
+  "inStock": true,
+  "brand": "InspirePrint",
+  "tags": ["poster", "motivation", "study-room", "inspirational", "wall-art"],
+  "qty": 1
+},
+    {
+  "id": 4010,
+  "title": "PixelPop Laptop Sticker Pack",
+  "description": "Fun pack of 25 colorful laptop stickers featuring tech, gaming, and pop culture themes. Made with waterproof vinyl and strong adhesive for long-lasting use.",
+  "price": 449,
+  "originalPrice": 649,
+  "discountPercent": 31,
+  "category": "Stickers & Posters",
+  "subCategory": "Stickers",
+  "image": "https://i.pinimg.com/originals/4c/94/7a/4c947a0442d66bee5082842f597cd4d6.jpg",
+  "images": [
+    "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&w=800"
+  ],
+  "rating": 4.4,
+  "reviewsCount": 81,
+  "inStock": true,
+  "brand": "PixelPop",
+  "tags": ["stickers", "laptop", "vinyl", "gaming", "colorful"],
+  "qty": 1
+},
+{
+  "id": 4011,
+  "title": "Focus & Hustle Wall Poster",
+  "description": "Minimalist motivational poster with 'Focus and Hustle' quote design. Printed on high-quality matte poster paper, perfect for study desks, home offices, or creative workspaces.",
+  "price": 749,
+  "originalPrice": 1099,
+  "discountPercent": 32,
+  "category": "Stickers & Posters",
+  "subCategory": "motivational",
+  "image": "https://images.vexels.com/media/users/3/335269/raw/9dad53a912c4ba729ac1d9cead1d41d5-hustle-success-poster-design.jpg",
+  "images": [
+    "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?ixlib=rb-4.0.3&auto=format&fit=crop&w=800",
+    "https://images.unsplash.com/photo-1493666438817-866a91353ca9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+  ],
+  "rating": 2.4,
+  "reviewsCount": 138,
+  "inStock": true,
+  "brand": "WallInspire",
+  "tags": ["poster", "motivation", "focus", "workspace", "wall-art"],
+  "qty": 1
+},
+{
+  "id": 4012,
+  "title": "NatureBloom Tree Wall Decal",
+  "description": "Elegant tree wall decal with birds and leaves design. Made from removable vinyl, easy to apply and reposition without damaging walls. Perfect for living rooms and bedrooms.",
+  "price": 649,
+  "originalPrice": 899,
+  "discountPercent": 28,
+  "category": "Stickers & Posters",
+  "subCategory": "Wall Decal",
+  "image": "https://m.media-amazon.com/images/I/71W9CCcJoXL._AC_.jpg",
+  "images": [
+    "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+  ],
+  "rating": 4.5,
+  "reviewsCount": 112,
+  "inStock": true,
+  "brand": "NatureBloom",
+  "tags": ["wall-decal", "tree", "nature", "decor", "removable"],
+  "qty": 1
+},
+{
+  "id": 4013,
+  "title": "ColorSplash Butterfly Wall Decals",
+  "description": "Vibrant butterfly wall decal set with colorful designs. Made from eco-friendly vinyl with peel-and-stick application. Ideal for bedrooms, kids rooms, and creative spaces.",
+  "price": 549,
+  "originalPrice": 749,
+  "discountPercent": 27,
+  "category": "Stickers & Posters",
+  "subCategory": "Wall Decal",
+  "image": "https://m.media-amazon.com/images/I/71TeDCdCeUL._AC_SL1500_.jpg",
+  "images": [
+    "https://images.unsplash.com/photo-1600566752227-8fbe9aef2b41?ixlib=rb-4.0.3&auto=format&fit=crop&w=800"
+  ],
+  "rating": 3.3,
+  "reviewsCount": 87,
+  "inStock": true,
+  "brand": "ColorSplash",
+  "tags": ["wall-decal", "butterfly", "decor", "stickers", "colorful"],
+  "qty": 1
+}
+  
+  ]

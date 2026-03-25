@@ -1,0 +1,59 @@
+.grid-col{
+    display: grid;
+    grid-template-columns: 3fr 9fr;
+}
+.ok{
+    border-right: 2px solid rgb(229, 221, 221);
+    
+}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+}
+.card{
+    border: 2px solid white;
+    height: 310px;
+    width: 250px;
+    margin-left: 30px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    padding: 4px;
+    box-shadow: 0 0 10px rgba(205, 199, 199, 0.6);
+      
+}
+.MainPrice{
+    margin-top: 10px;
+    font-weight: 700;
+
+}
+.actulPrice{
+    text-decoration: line-through;
+    color: rgb(187, 182, 176);
+    margin-left: 10px;
+}
+.percent{
+    color: red;
+    font-size: 14px;
+ }
+ .check input{
+    display: none;
+ }
+ .check span{
+      width: 4px;
+  height: 4px;
+  border: 2px solid #7b2cff;
+  border-radius: 50%;
+  
+ }
+ .inputCatagory,.inputRating {
+    margin-bottom: 10px;
+
+ }
+ 
+
+    
+ .cardContex{
+     height: 100px;
+ }
