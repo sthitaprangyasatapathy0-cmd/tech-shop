@@ -1,6 +1,6 @@
 import { useContext, useState } from "react"
 import { shopContext } from "../Context/context"
-import './cart.css'
+import './Cart.css'
 import { RiAddCircleFill } from "react-icons/ri";
 import { IoIosRemoveCircle } from "react-icons/io";
 import { CiCircleRemove } from "react-icons/ci";
