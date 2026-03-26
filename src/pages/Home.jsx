@@ -2,7 +2,7 @@ import { useState } from "react";
 import jsonData from "../Database/data.json";
 import { Route, Routes } from "react-router-dom";
 import hero from"../assets/hero.webp";
-import { Catagory } from "../components/catagory";
+import { Catagory } from "../components/category";
 import Footer from "./footer";
 
 export default function Home() {

@@ -1,5 +1,5 @@
 import { useContext, useState } from "react"
-import './adress.css'
+import './address.css'
 import { shopContext } from "../main";
 export function Address() {
     const { text, SetText } = useContext(shopContext)

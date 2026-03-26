@@ -11,12 +11,12 @@ import { Login } from './pages/login'
 import { DeskSetup } from './pages/DeskSetup'
 import { StudyEssentials } from './pages/StudyEssentials'
 import { LaptopMobile } from './pages/Laptop&Mobile'
-import { Stickers } from './pages/Stickers & Posters'
+import { Stickers } from './pages/StickersandPosters'
 import logo from './assets/logo.png'
 import { ProductDetails } from './pages/ProductDetails'
 import { shopContext } from './main'
 import { RequiredAuth } from './components/requiredAuth'
-import { Address } from './pages/adress'
+import { Address } from './pages/address'
 import data from './Database/data.json'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 //import { byPrefixAndName } from '@awesome.me/kit-KIT_CODE/icons'
@@ -24,8 +24,8 @@ import { FaShoppingCart } from "react-icons/fa";
 import { BsFillHeartFill } from "react-icons/bs";
 
 import { FaLocationDot } from "react-icons/fa6";
-import { AllCatagory } from './pages/allcatagory'
-import OrderSuccessPage from './pages/ordercomplte'
+import { AllCatagory } from './pages/allcateagory'
+import OrderSuccessPage from './pages/ordercomplete'
 
 
 
